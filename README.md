@@ -1,6 +1,5 @@
 👋 Hi, I’m @9Ale9    (づ｡◕‿‿◕｡)づ
  ●﹏●    I’m interested in C# & Machine Learning (Unity)
-🌱 I’m currently learning Sea Sharp
 💞️ I’m looking to collaborate on expanding my collective knowledge for coding                              
 📫 How to reach me ___ivanaleric77@gmail.com__
 <!---
